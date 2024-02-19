@@ -17,3 +17,5 @@ local.properties
 /nbproject/
 build.xml
 manifest.mf
+/NetBeans/nbproject/private/
+/NetBeans/build/
